@@ -19,7 +19,7 @@ public class Program
         // Entrada del usuario de la variable Y1
 		Console.Write("Ingrese Y1: ");
 		double y1 = double.Parse(Console.ReadLine());
-	
+	//casa
 
     }
 }
